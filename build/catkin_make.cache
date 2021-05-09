@@ -1,0 +1,2 @@
+package
+-DCATKIN_DEVEL_PREFIX=/media/xbot/8802F5C302F5B672/1/devel -DCMAKE_INSTALL_PREFIX=/media/xbot/8802F5C302F5B672/1/install -G Unix Makefiles

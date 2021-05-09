@@ -1,0 +1,8 @@
+prefix=/media/xbot/8802F5C302F5B672/1/devel
+
+Name: package
+Description: Description of package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
